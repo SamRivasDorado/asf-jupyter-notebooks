@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/SamRivasDorado/asf-jupyter-notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/SamRivasDorado/asf-jupyter-notebooks/blob/master/ASF/Projects/Explore_SAR_Time_Series_From_Prepared_Data_Stack.ipynb)
 
 # ASF Jupyter Notebooks
 __Where python meets fun!!__
